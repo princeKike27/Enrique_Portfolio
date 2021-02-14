@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analysis Portfolio on Enrique Barón Gómez</title>
+    <link>https://princeKike27.github.io/Enrique_Portfolio/</link>
+    <description>Recent content in Data Analysis Portfolio on Enrique Barón Gómez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Jan 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://princeKike27.github.io/Enrique_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analytics: FIFA World Cup Data</title>
+      <link>https://princeKike27.github.io/Enrique_Portfolio/post/project-1/</link>
+      <pubDate>Sat, 23 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://princeKike27.github.io/Enrique_Portfolio/post/project-1/</guid>
+      <description>For this project I analyzed data from the FIFA World Cups between 1930 and 2014. This tournament is an international football competition where countries qualify to send teams made up of the best players from each nation to obtain the World Cup Championship. It has been awarded every four years since the inaugural tournament in 1930, except in 1942 and 1946 when it wasn&amp;rsquo;t held due to the Second World War.</description>
+    </item>
+    
+    <item>
+      <title>Python: Magic-8 Python Ball</title>
+      <link>https://princeKike27.github.io/Enrique_Portfolio/post/project-2/</link>
+      <pubDate>Tue, 12 Jan 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://princeKike27.github.io/Enrique_Portfolio/post/project-2/</guid>
+      <description>For this project I created a Python implementation of the Magic 8-Ball game. The Magic 8-Ball is a popular toy developed in the 1950s for fortune-telling or advice seeking. The user asks a yes–no question to the ball, then turns it over to reveal an answer in a window on the ball. It was invented in 1950 by Albert C. Carter and Abe Bookman and is currently manufactured by Mattel.</description>
+    </item>
+    
+    <item>
+      <title>Analytics: Roller Coaster Data</title>
+      <link>https://princeKike27.github.io/Enrique_Portfolio/post/project-3/</link>
+      <pubDate>Sat, 19 Dec 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://princeKike27.github.io/Enrique_Portfolio/post/project-3/</guid>
+      <description>For this project I analyzed data from the best ranked wooden and steel Roller Coasters in the world between 2013 to 2018. Roller Coasters are thrilling amusement park rides designed to make you squeal and scream! They take you up high, drop you to the ground quickly, and sometimes even spin you upside down before running to a stop. Roller Coasters are often split into two main categories based on their construction material: wood or steel.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://princeKike27.github.io/Enrique_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://princeKike27.github.io/Enrique_Portfolio/contact/</guid>
+      <description>You can contact me through these platforms.
+   Platform    URL     Email . . . enriquebaron27@hotmail.com   LinkedIn . . . https://www.linkedin.com/in/EnriqueBaronGomez/   GitHub . . . https://github.com/princeKike27    </description>
+    </item>
+    
+  </channel>
+</rss>
