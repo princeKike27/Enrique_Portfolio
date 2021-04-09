@@ -3,121 +3,128 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://princeKike27.github.io/Enrique_Portfolio/post/project-1/</loc>
-    <lastmod>2021-01-23T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://princeKike27.github.io/Enrique_Portfolio/</loc>
-    <lastmod>2021-01-23T10:58:08-04:00</lastmod>
+    <loc>https://example.com/</loc>
+    <lastmod>2021-03-27T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://princeKike27.github.io/Enrique_Portfolio/es/"
+                href="https://example.com/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://princeKike27.github.io/Enrique_Portfolio/"
+                href="https://example.com/"
                 />
   </url>
   
   <url>
-    <loc>https://princeKike27.github.io/Enrique_Portfolio/post/project-2/</loc>
+    <loc>https://example.com/post/project-4/</loc>
+    <lastmod>2021-03-27T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/post/project-1/</loc>
+    <lastmod>2021-01-23T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/post/project-2/</loc>
     <lastmod>2021-01-12T11:13:32-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://princeKike27.github.io/Enrique_Portfolio/post/project-3/</loc>
+    <loc>https://example.com/post/project-3/</loc>
     <lastmod>2020-12-19T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://princeKike27.github.io/Enrique_Portfolio/post/</loc>
+    <loc>https://example.com/post/</loc>
     <lastmod>2020-12-03T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://princeKike27.github.io/Enrique_Portfolio/es/post/"
+                href="https://example.com/es/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://princeKike27.github.io/Enrique_Portfolio/post/"
+                href="https://example.com/post/"
                 />
   </url>
   
   <url>
-    <loc>https://princeKike27.github.io/Enrique_Portfolio/about/</loc>
+    <loc>https://example.com/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://princeKike27.github.io/Enrique_Portfolio/es/about/"
+                href="https://example.com/es/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://princeKike27.github.io/Enrique_Portfolio/about/"
+                href="https://example.com/about/"
                 />
   </url>
   
   <url>
-    <loc>https://princeKike27.github.io/Enrique_Portfolio/categories/</loc>
+    <loc>https://example.com/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://princeKike27.github.io/Enrique_Portfolio/es/categories/"
+                href="https://example.com/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://princeKike27.github.io/Enrique_Portfolio/categories/"
+                href="https://example.com/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://princeKike27.github.io/Enrique_Portfolio/contact/</loc>
+    <loc>https://example.com/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://princeKike27.github.io/Enrique_Portfolio/es/contact/"
+                href="https://example.com/es/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://princeKike27.github.io/Enrique_Portfolio/contact/"
+                href="https://example.com/contact/"
                 />
   </url>
   
   <url>
-    <loc>https://princeKike27.github.io/Enrique_Portfolio/tags/</loc>
+    <loc>https://example.com/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://princeKike27.github.io/Enrique_Portfolio/es/tags/"
+                href="https://example.com/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://princeKike27.github.io/Enrique_Portfolio/tags/"
+                href="https://example.com/tags/"
                 />
   </url>
   

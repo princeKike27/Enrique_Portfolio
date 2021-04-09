@@ -2,44 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portafolio de Análisis de Datos on Enrique Barón Gómez</title>
-    <link>https://princeKike27.github.io/Enrique_Portfolio/es/</link>
+    <link>https://example.com/es/</link>
     <description>Recent content in Portafolio de Análisis de Datos on Enrique Barón Gómez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Jan 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://princeKike27.github.io/Enrique_Portfolio/es/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Mar 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://example.com/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ML: Predicción de la Disminución en la Producción de Miel de Abejas en Estados Unidos</title>
+      <link>https://example.com/es/post/proyecto-4/</link>
+      <pubDate>Sat, 27 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/es/post/proyecto-4/</guid>
+      <description>Para este proyecto analicé los datos de la producción de miel de abejas en los Estados Unidos entre el año 1998 al 2012. Como se ha escuchado, la población de abejas a nivel mundial se encuentra actualmente en un estado preocupante. La disminución de abejas polinizadoras causará un impacto devastador en todo el planeta ya que, estas son las mas importantes polinizadoras de frutas y verduras a nivel mundial. Se estima que un tercio de de la comida que consumimos a diario como el aguacate, la soja, los esparragos y los kiwis dependen de la polinización de abejas.</description>
+    </item>
+    
     <item>
       <title>Analytics: Copa Mundial de la FIFA</title>
-      <link>https://princeKike27.github.io/Enrique_Portfolio/es/post/proyecto-2/</link>
+      <link>https://example.com/es/post/proyecto-2/</link>
       <pubDate>Sat, 23 Jan 2021 10:58:08 -0400</pubDate>
       
-      <guid>https://princeKike27.github.io/Enrique_Portfolio/es/post/proyecto-2/</guid>
+      <guid>https://example.com/es/post/proyecto-2/</guid>
       <description>Para este proyecto analicé los datos de las Copas Mundiales de la FIFA entre 1930 y el 2014. Este torneo es una competición internacional de fútbol, donde los paises utilizan a sus mejores jugadores para lograr clasificar y obtener el trofeo de campeón mundial. Se juega cada cuatro años desde su inaguracion en 1930, a excepción de 1942 y 1946 donde la Segunda Guerra Mundial impidió que se llevara a cabo la competición.</description>
     </item>
     
     <item>
       <title>Python: Bola 8 - Python Mágica</title>
-      <link>https://princeKike27.github.io/Enrique_Portfolio/es/post/proyecto-1/</link>
+      <link>https://example.com/es/post/proyecto-1/</link>
       <pubDate>Tue, 12 Jan 2021 11:13:32 -0400</pubDate>
       
-      <guid>https://princeKike27.github.io/Enrique_Portfolio/es/post/proyecto-1/</guid>
+      <guid>https://example.com/es/post/proyecto-1/</guid>
       <description>Para este proyecto cree una implementación en Python del juego Bola 8 - Mágica. Este juguete fue desarrollado en la decada de 1950 y alzanzo grandes niveles de popularidad al ser utilizado para la adivinación y la busqueda de consejos. El usuario le hace una pregunta del tipo si/no a la bola mágica y luego procede a voltearla para ver la respuesta a su pregunta. Fue creado por Albert C. Carter y Abe Bookman y actualmente es producida por Mattel.</description>
     </item>
     
     <item>
       <title>Analytics: Montañas Rusas</title>
-      <link>https://princeKike27.github.io/Enrique_Portfolio/es/post/proyecto-3/</link>
+      <link>https://example.com/es/post/proyecto-3/</link>
       <pubDate>Sat, 19 Dec 2020 11:00:59 -0400</pubDate>
       
-      <guid>https://princeKike27.github.io/Enrique_Portfolio/es/post/proyecto-3/</guid>
-      <description>Para este proyecto analicé los datos de las mejores montañas rusas en el mundo entre el año 2013 al 2018. Las montañas rusas son atracciones de los parques de diversiones que están diseñadas para hacerte gritar. Te llevan a lo alto, te dejan caer al suelo rápidamente y, a veces, incluso te dan la vuelta antes de detenerse. Las montañas rusas se dividen en dos categorias principales, madera o acero, dependiendo de su material de construcción.</description>
+      <guid>https://example.com/es/post/proyecto-3/</guid>
+      <description>Para este proyecto analicé los datos de las mejores montañas rusas en el mundo entre el año 2013 al 2018. Las montañas rusas son atracciones de los parques de diversiones que están diseñadas para hacerte gritar. Te llevan a lo alto, te dejan caer al suelo rápidamente y, a veces, incluso te dan la vuelta antes de detenerte. Las montañas rusas se dividen en dos categorias principales, madera o metal, dependiendo de su material de construcción.</description>
     </item>
     
     <item>
       <title>Contacto</title>
-      <link>https://princeKike27.github.io/Enrique_Portfolio/es/contact/</link>
+      <link>https://example.com/es/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://princeKike27.github.io/Enrique_Portfolio/es/contact/</guid>
+      <guid>https://example.com/es/contact/</guid>
       <description>Me pueden contactar por medio de estas plataformas.
    Platforma    URL     Email . . . enriquebaron27@hotmail.com   LinkedIn . . . https://www.linkedin.com/in/EnriqueBaronGomez/   GitHub . . . https://github.com/princeKike27    </description>
     </item>
