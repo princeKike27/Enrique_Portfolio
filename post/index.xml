@@ -8,6 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Dec 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://princekike27.github.io/Enrique_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Analytics: Endangered Species in United States National Parks</title>
+      <link>https://princekike27.github.io/Enrique_Portfolio/post/project-6/</link>
+      <pubDate>Sun, 02 May 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://princekike27.github.io/Enrique_Portfolio/post/project-6/</guid>
+      <description>For this project I analyzed data from the US National Parks Service about endangered species in different parks. Taking the role of a biodiversity analyst, the goal is to ensure the survival of at-risk species to maintain the level of biodiversity within the parks. In that sense, I will identify if there are any patterns in the types of species that become endangered and their relationship to the National Parks.</description>
+    </item>
+    
+    <item>
+      <title>Analytics: Life Expectancy and GDP</title>
+      <link>https://princekike27.github.io/Enrique_Portfolio/post/project-5/</link>
+      <pubDate>Wed, 07 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://princekike27.github.io/Enrique_Portfolio/post/project-5/</guid>
+      <description>For this project I analyzed data on the Growth Domestic Product (GDP) and Life Expectancy from the World Health Organization and the World Bank, to try and identify the relationship between the GDP and the life expectancy of six countries. GDP is the total monetary or market value of all the finished goods and services produced within a country&amp;rsquo;s borders in a specific time period. In that sense, being a broad measure of overall domestic production, it functions as a comprehensive scorecard of a given country&amp;rsquo;s economic health.</description>
+    </item>
+    
+    <item>
       <title>ML: Prediction of Honey Bee Production Decline in the US </title>
       <link>https://princekike27.github.io/Enrique_Portfolio/post/project-4/</link>
       <pubDate>Sat, 27 Mar 2021 10:58:08 -0400</pubDate>
