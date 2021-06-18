@@ -8,6 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Dec 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://princekike27.github.io/Enrique_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>ML: Prediction of Passengers Survival Rate in the Titanic Sinking</title>
+      <link>https://princekike27.github.io/Enrique_Portfolio/post/project-7/</link>
+      <pubDate>Sat, 29 May 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://princekike27.github.io/Enrique_Portfolio/post/project-7/</guid>
+      <description>For this project I analyzed data from the passengers on board the Titanic. I created a Logistic Regression model that predicts which passengers survived the sinking of the ship, based on features like age and ticket class. The RMS Titanic set sail on its maiden voyage in 1912, crossing the Atlantic from Southampton, England, to New York City. The ship never completed the voyage, it sank to the bottom of the Atlantic Ocean after hitting an iceberg, bringing down 1,502 of 2,224 passengers on board.</description>
+    </item>
+    
+    <item>
+      <title>ML: Prediction of Honey Bee Production Decline in the US </title>
+      <link>https://princekike27.github.io/Enrique_Portfolio/post/project-4/</link>
+      <pubDate>Mon, 17 May 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://princekike27.github.io/Enrique_Portfolio/post/project-4/</guid>
+      <description>For this project I analyzed data from honey bee production in the US from 1998 to 2012. As you may have heard, honey bees are in a precarious state right now, news and articles are informing about the decline of the honey bees population and the impact it will cause on the entire planet. This is because, honey bees are the world’s most important pollinator of food crops. It is estimated that one third of the food that we consume each day like avocados, soybeans, asparagus and kiwis rely on bees pollination.</description>
+    </item>
+    
+    <item>
       <title>Analytics: Endangered Species in United States National Parks</title>
       <link>https://princekike27.github.io/Enrique_Portfolio/post/project-6/</link>
       <pubDate>Sun, 02 May 2021 10:58:08 -0400</pubDate>
@@ -23,15 +41,6 @@
       
       <guid>https://princekike27.github.io/Enrique_Portfolio/post/project-5/</guid>
       <description>For this project I analyzed data on the Growth Domestic Product (GDP) and Life Expectancy from the World Health Organization and the World Bank, to try and identify the relationship between the GDP and the life expectancy of six countries. GDP is the total monetary or market value of all the finished goods and services produced within a country&amp;rsquo;s borders in a specific time period. In that sense, being a broad measure of overall domestic production, it functions as a comprehensive scorecard of a given country&amp;rsquo;s economic health.</description>
-    </item>
-    
-    <item>
-      <title>ML: Prediction of Honey Bee Production Decline in the US </title>
-      <link>https://princekike27.github.io/Enrique_Portfolio/post/project-4/</link>
-      <pubDate>Sat, 27 Mar 2021 10:58:08 -0400</pubDate>
-      
-      <guid>https://princekike27.github.io/Enrique_Portfolio/post/project-4/</guid>
-      <description>For this project I analyzed data from honey bee production in the US from 1998 to 2012. As you may have heard, honey bees are in a precarious state right now, news and articles are informing about the decline of the honey bees population and the impact it will cause on the entire planet. This is because, honey bees are the world&amp;rsquo;s most important pollinator of food crops. It is estimated that one third of the food that we consume each day like avocados, soybeans, asparagus and kiwis rely on bees pollination.</description>
     </item>
     
     <item>

@@ -8,9 +8,27 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Dec 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://princekike27.github.io/Enrique_Portfolio/es/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>ML: Predicción de la Tasa de Supervivencia en el Hundimiento del Titanic</title>
+      <link>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-7/</link>
+      <pubDate>Sat, 29 May 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-7/</guid>
+      <description>Para este proyecto analicé los datos de los pasajeros a bordo del Titanic. Creé un modelo de Regresión Logístico que predice cuales pasajeros sobrevivieron al hundimiento del barco, basado en características (features) como la edad y la clase del tiquete. El Titanic zarpo en 1912 en su primer viaje con la intención de cruzar el Atlántico de Southampton, Inglaterra, a Nueva York. El barco no pudo terminar su viaje ya que, choco contra un iceberg y se hundio causando la muerte de 1,502 de sus 2,224 pasajeros.</description>
+    </item>
+    
+    <item>
+      <title>ML: Predicción de la Disminución en la Producción de Miel de Abejas en Estados Unidos</title>
+      <link>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-4/</link>
+      <pubDate>Mon, 17 May 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-4/</guid>
+      <description>Para este proyecto analicé los datos de la producción de miel de abejas en los Estados Unidos entre el año 1998 al 2012. Como se ha escuchado, la población de abejas a nivel mundial se encuentra actualmente en un estado preocupante. La disminución de abejas polinizadoras causará un impacto devastador en todo el planeta ya que, estas son las mas importantes polinizadoras de frutas y verduras a nivel mundial. Se estima que un tercio de de la comida que consumimos a diario como el aguacate, la soja, los esparragos y los kiwis dependen de la polinización de abejas.</description>
+    </item>
+    
+    <item>
       <title>Analytics: Especies en Peligro de Extinción en Cuatro Parques Nacionales de Estados Unidos</title>
       <link>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-6/</link>
-      <pubDate>Wed, 07 Apr 2021 10:58:08 -0400</pubDate>
+      <pubDate>Sun, 02 May 2021 10:58:08 -0400</pubDate>
       
       <guid>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-6/</guid>
       <description>Para este proyecto analicé los datos del Servicio de Parques Nacionales de Estados Unidos sobre especies en peligro de extición en los diferentes Parques Nacionales. Tomando el rol de un analista de biodiversidad, el objetivo es garantizar la supervivencia de las especies en riesgo para mantener los niveles de biodiversidad dentro de los parques. En ese sentido, identificaré los patrones que pueden llegar a existir en los diferentes tipos de especies que estan en peligro de extinción y su relación con los Parques Naturales donde habitan.</description>
@@ -23,15 +41,6 @@
       
       <guid>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-5/</guid>
       <description>Para este proyecto analicé los datos del Producto Interno Bruto (PIB) y la Expectativa de Vida de la Organización Mundial de la Salud y del Banco Mundial con el fin, de identificar la relación que existe entre el PIB y la expectativa de vida en seis paises. El PIB es el valor monetario total de todos los productos terminados y servicios que son producidos dentro de un país en un rango específico de tiempo.</description>
-    </item>
-    
-    <item>
-      <title>ML: Predicción de la Disminución en la Producción de Miel de Abejas en Estados Unidos</title>
-      <link>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-4/</link>
-      <pubDate>Sat, 27 Mar 2021 10:58:08 -0400</pubDate>
-      
-      <guid>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-4/</guid>
-      <description>Para este proyecto analicé los datos de la producción de miel de abejas en los Estados Unidos entre el año 1998 al 2012. Como se ha escuchado, la población de abejas a nivel mundial se encuentra actualmente en un estado preocupante. La disminución de abejas polinizadoras causará un impacto devastador en todo el planeta ya que, estas son las mas importantes polinizadoras de frutas y verduras a nivel mundial. Se estima que un tercio de de la comida que consumimos a diario como el aguacate, la soja, los esparragos y los kiwis dependen de la polinización de abejas.</description>
     </item>
     
     <item>

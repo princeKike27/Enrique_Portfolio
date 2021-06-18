@@ -3,15 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://princekike27.github.io/Enrique_Portfolio/post/project-6/</loc>
-    <lastmod>2021-05-02T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://princekike27.github.io/Enrique_Portfolio/</loc>
-    <lastmod>2021-05-02T10:58:08-04:00</lastmod>
+    <lastmod>2021-05-29T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -27,15 +20,29 @@
   </url>
   
   <url>
-    <loc>https://princekike27.github.io/Enrique_Portfolio/post/project-5/</loc>
-    <lastmod>2021-04-07T10:58:08-04:00</lastmod>
+    <loc>https://princekike27.github.io/Enrique_Portfolio/post/project-7/</loc>
+    <lastmod>2021-05-29T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://princekike27.github.io/Enrique_Portfolio/post/project-4/</loc>
-    <lastmod>2021-03-27T10:58:08-04:00</lastmod>
+    <lastmod>2021-05-17T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://princekike27.github.io/Enrique_Portfolio/post/project-6/</loc>
+    <lastmod>2021-05-02T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://princekike27.github.io/Enrique_Portfolio/post/project-5/</loc>
+    <lastmod>2021-04-07T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
