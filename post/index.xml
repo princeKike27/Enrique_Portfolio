@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Dec 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://princekike27.github.io/Enrique_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>ML: K Nearest Neighbors Book Recommendation Classifier</title>
+      <link>https://princekike27.github.io/Enrique_Portfolio/post/project-8/</link>
+      <pubDate>Sat, 06 Nov 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://princekike27.github.io/Enrique_Portfolio/post/project-8/</guid>
+      <description>For this project I analyzed data from the Book-Crossings dataset which contains 1.1 million ratings, on a scale from 1-10, of 270,000 books by 90,000 users. In that sense, using the K-Nearest Neighbors algorithm I created a book classifier that based on features like the book´s year of publication and its author will predict if I will like a book, and it will recommend me other similar books to read.</description>
+    </item>
+    
+    <item>
       <title>ML: Prediction of Passengers Survival Rate in the Titanic Sinking</title>
       <link>https://princekike27.github.io/Enrique_Portfolio/post/project-7/</link>
       <pubDate>Sat, 29 May 2021 10:58:08 -0400</pubDate>

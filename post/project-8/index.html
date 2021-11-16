@@ -4,9 +4,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>ML: Prediction of Passengers Survival Rate in the Titanic Sinking | Enrique Barón Gómez</title>
+    <title>ML: K Nearest Neighbors Book Recommendation Classifier | Enrique Barón Gómez</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="description" content="Creation of Logistic Regression Model for Titanic Survival Rate">
+    <meta name="description" content="Creation of a Book Recommendation Classifier">
     <meta name="generator" content="Hugo 0.80.0" />
     
     
@@ -30,24 +30,24 @@
 
     
     
-    <meta property="og:title" content="ML: Prediction of Passengers Survival Rate in the Titanic Sinking" />
-<meta property="og:description" content="Creation of Logistic Regression Model for Titanic Survival Rate" />
+    <meta property="og:title" content="ML: K Nearest Neighbors Book Recommendation Classifier" />
+<meta property="og:description" content="Creation of a Book Recommendation Classifier" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://princekike27.github.io/Enrique_Portfolio/post/project-7/" />
-<meta property="article:published_time" content="2021-05-29T10:58:08-04:00" />
-<meta property="article:modified_time" content="2021-05-29T10:58:08-04:00" /><meta property="og:site_name" content="Enrique Barón Gómez" />
-<meta itemprop="name" content="ML: Prediction of Passengers Survival Rate in the Titanic Sinking">
-<meta itemprop="description" content="Creation of Logistic Regression Model for Titanic Survival Rate">
-<meta itemprop="datePublished" content="2021-05-29T10:58:08-04:00" />
-<meta itemprop="dateModified" content="2021-05-29T10:58:08-04:00" />
-<meta itemprop="wordCount" content="787">
+<meta property="og:url" content="https://princekike27.github.io/Enrique_Portfolio/post/project-8/" />
+<meta property="article:published_time" content="2021-11-06T10:58:08-04:00" />
+<meta property="article:modified_time" content="2021-11-06T10:58:08-04:00" /><meta property="og:site_name" content="Enrique Barón Gómez" />
+<meta itemprop="name" content="ML: K Nearest Neighbors Book Recommendation Classifier">
+<meta itemprop="description" content="Creation of a Book Recommendation Classifier">
+<meta itemprop="datePublished" content="2021-11-06T10:58:08-04:00" />
+<meta itemprop="dateModified" content="2021-11-06T10:58:08-04:00" />
+<meta itemprop="wordCount" content="764">
 
 
 
 <meta itemprop="keywords" content="" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="ML: Prediction of Passengers Survival Rate in the Titanic Sinking"/>
-<meta name="twitter:description" content="Creation of Logistic Regression Model for Titanic Survival Rate"/>
+<meta name="twitter:title" content="ML: K Nearest Neighbors Book Recommendation Classifier"/>
+<meta name="twitter:description" content="Creation of a Book Recommendation Classifier"/>
 
 	
   </head>
@@ -60,7 +60,7 @@
 
   
   
-  <header class="cover bg-top" style="background-image: url('https://princekike27.github.io/Enrique_Portfolio/images/Project7_Banner2.jpg');">
+  <header class="cover bg-top" style="background-image: url('https://princekike27.github.io/Enrique_Portfolio/images/Project8_Banner1.jpg');">
     <div class="pb3-m pb6-l bg-black-60">
       <nav class="pv3 ph3 ph4-ns" role="navigation">
   <div class="flex-l justify-between items-center center">
@@ -137,10 +137,10 @@
 
       <div class="tc-l pv6 ph3 ph4-ns">
         
-          <h1 class="f2 f1-l fw2 white-90 mb0 lh-title">ML: Prediction of Passengers Survival Rate in the Titanic Sinking</h1>
+          <h1 class="f2 f1-l fw2 white-90 mb0 lh-title">ML: K Nearest Neighbors Book Recommendation Classifier</h1>
           
             <h2 class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
-              Creation of Logistic Regression Model for Titanic Survival Rate
+              Creation of a Book Recommendation Classifier
             </h2>
           
         
@@ -160,61 +160,60 @@
         PROJECTS
       </aside>
       
-      <h1 class="f1 athelas mt3 mb1">ML: Prediction of Passengers Survival Rate in the Titanic Sinking</h1>
+      <h1 class="f1 athelas mt3 mb1">ML: K Nearest Neighbors Book Recommendation Classifier</h1>
       
       
-      <time class="f6 mv4 dib tracked" datetime="2021-05-29T10:58:08-04:00">May 29, 2021</time>
+      <time class="f6 mv4 dib tracked" datetime="2021-11-06T10:58:08-04:00">November 6, 2021</time>
 
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>For this project I analyzed data from the passengers on board the Titanic. I created a Logistic Regression model that predicts which passengers survived the sinking of the ship, based on features like age and ticket class. The RMS Titanic set sail on its maiden voyage in 1912, crossing the Atlantic from Southampton, England, to New York City. The ship never completed the voyage, it sank to the bottom of the Atlantic Ocean after hitting an iceberg, bringing down 1,502 of 2,224 passengers on board.</p>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>For this project I analyzed data from the Book-Crossings dataset which contains 1.1 million ratings, on a scale from 1-10, of 270,000 books by 90,000 users. In that sense, using the <em>K-Nearest Neighbors</em> algorithm I created a book classifier that based on features like the book´s year of publication and its author will predict if I will like a book, and it will recommend me other similar books to read.</p>
 <p>Throughout the project you will be able to find:</p>
 <ul>
 <li>Data cleaning and standardization.</li>
-<li>Features and labels for model.</li>
-<li>Logistic Regression Model.</li>
+<li>Analysis of relevant features to build the model.</li>
+<li><em>KNN</em> Classifier for book prediction and recommendations.</li>
 </ul>
 <h2 id="datasets-and-technologies-used">Datasets and Technologies Used</h2>
-<p>The analysis was done with a csv file from <em>Kaggle</em> &lsquo;titanic.csv&rsquo;. It contains information of 1309 passengers on board the Titanic like their name, sex, age, the ticket class, ticket number, the cabin and the port they embarked.</p>
-<p>In terms of technologies, <em>python</em> was used for the data analysis with the following tools: <em>pandas</em> for data tyding and manipulation, <em>numpy</em> for numerical analysis <em>matplotlib</em> and <em>seaborn</em> for plots and graphs, <em>sklearn.preprocessing</em> for normalizing features and <em>sklearn.linear_model</em> for the Logistic Regression model.</p>
+<p>The analysis was done with two csv files from the <em>Book-Crossings</em> dataset &lsquo;Books.csv&rsquo; and &lsquo;Book-Ratings.csv&rsquo;. The former contains the isbn, title, author and year of publication of 271,379 books while the latter, has the user_id, isbn and the book rating on a scale from 1 to 10.</p>
+<p>In terms of technologies, <em>python</em> was used for the data analysis with the following tools: <em>pandas</em> for data tyding and manipulation, <em>numpy</em> for numerical analysis <em>matplotlib</em> and <em>seaborn</em> for plots and graphs, <em>sklearn.preprocessing</em> for normalizing features and <em>sklearn.neighbors</em> for the <em>K-Nearest Neighbors</em> classifier.</p>
 <h2 id="data-analysis">Data Analysis</h2>
 <h3 id="features-and-labels-for-model">Features and Labels for Model</h3>
-<p>The features selected for the model are: <em>Sex</em>, <em>Age</em>, <em>FirstClass</em> and <em>SecondClass</em>. In that sense, based on the passengers sex, age and ticket class the model is going to predict if the passenger was saved or it perished. Since the Logistic Regression model only accepts numbers as input, binning techniques were used on the previously mentioned features to convert them to numbers. The <em>Sex</em> feature had two values &lsquo;male&rsquo; and &lsquo;female&rsquo;, &lsquo;male&rsquo; was mapped to 0 and &lsquo;female&rsquo; to 1. The <em>FirstClass</em> feature was created from <em>Pclass</em> (ticket class), if its value was 1, its value was mapped to 1, else to 0. The <em>SecondClass</em> was also created from <em>Pclass</em>, if its value was 2, its value was mapped to 1, else to 0. The table below shows the first 5 rows of the <em>Features DataFrame</em>.</p>
+<p>The features selected for the model are: <em>year</em>, <em>is_Orwell</em>, <em>is_Asimov</em>, <em>is_Hesse</em>, <em>is_Doyle</em>, <em>is_Tolkien</em> and <em>is_Martin</em>, which summarizes my favorite authors. In that sense, based on the book&rsquo;s year of publication and its author the <em>KNN</em> classifier is going to predict if I will like the book and give me a recommendation of books I will also enjoy reading. I used binning techniques on the previously mentioned features so they could be converted into numbers and fed into the model. For example, the <em>is_asimov</em> feature goes through every book in the dataset and maps its value to 1 if the author of the book is Isaac Asimov, else to 0. The table below shows the firts 5 rows of the <em>DataFrame</em>.</p>
 <figure>
-    <img src="https://princekike27.github.io/Enrique_Portfolio/images/Project7_Features.JPG"/> <figcaption>
+    <img src="https://princekike27.github.io/Enrique_Portfolio/images/Project8_Features.JPG"/> <figcaption>
             <h4>Table 1: Features DataFrame</h4>
         </figcaption>
 </figure>
 
-<p>On the other hand, the <em>Labels DataFrame</em> shows for each passenger if it survived or perish in the sinking of the ship. A 0 means that the passenger perished while a 1 means that he survived. The table below shows the first 2 rows of the <em>Labels DataFrame</em>.</p>
+<p>On the other hand, I only like books that are worth reading that means, books which have an average rating greater than or equal to 7.5. With this in mind, the label <em>worth_reading</em> shows for each book if it is going to be worth reading. A 0 means that the book doesn´t have enough average rating for me to consider reading it, while a 1 means that based on my likes I will enjoy reading the book. The table below shows the <em>DataFrame</em> with the <em>worth_reading</em> column.</p>
 <figure>
-    <img src="https://princekike27.github.io/Enrique_Portfolio/images/Project7_Labels.JPG"/> <figcaption>
-            <h4>Table 2: Labels DataFrame</h4>
+    <img src="https://princekike27.github.io/Enrique_Portfolio/images/Project8_Labels.JPG"/> <figcaption>
+            <h4>Table 2: Features &amp; Label DataFrame</h4>
         </figcaption>
 </figure>
 
-<h3 id="logistic-regression-model">Logistic Regression Model</h3>
-<p>Continuing with what was stated previously, the data is divided into train (80% of data) and test (remaining 20%) for the <em>Features</em> and <em>Labels</em> <em>DataFrames</em>. The training data is used to create the logistic model, the model learns from this data and finds the best intercept and coefficients in an iterative process. On the other hand, the test data has not been seen by the model and is fed to it to evaluate its accuracy. The following step is normalizing the features train and test datasets so that all its values are transformed in a [0 - 1] range.</p>
-<p>Moving forward, a Logistic Regression model calculates the probability of a sample belonging to the positive class (passenger survived). With the formula <em>Z = bo + b1X1 + &hellip; + bnXn</em>, where <em>b0</em> is the intercept and <em>b1 &hellip; bn</em> are the coefficients of each feature analyzed, the best intercept and coefficients are found. In that sense, using <em>sklearn.linear_model</em> the <em>features_train</em> and <em>labels_train</em> datasets are fed to the Logistic Regression model. The best intercept and coefficients for each feature are the following:</p>
-<ul>
-<li>Intercept: -0.7092</li>
-<li>Sex: 1.6721</li>
-<li>Age: -0.3095</li>
-<li>FirstClass: 0.8160</li>
-<li>SecondClass: 0.3933</li>
-</ul>
-<p>The <em>Sex</em> of a passenger, with a coefficient of 1.67, and the type of ticket being <em>FirstClass</em>, with a coefficient of 0.81, are the features that have the biggest influence in classifying a passenger as a survivor (positive class). Also the Test Score on the test data is 0.8740 this means, that on average 87.4% of the times the model will correctly classify a new passenger as surviving or perishing in the Titanic voyage.</p>
+<h3 id="k-nearest-neighbors-book-classifier">K Nearest Neighbors Book Classifier</h3>
+<p>Continuing with what was stated previously, the data is divided into train (80% of the data) and test (remaining 20%) for the <em>Features</em> and <em>Labels</em> <em>DataFrames</em>. Before passing the train and test data to the classifier, the <em>Features</em> are normalized using <em>Z-Score normalization</em>, so that all values are in the same scale. With that done, the training data is used to create the <em>KNN</em> classifier, the model learns from this data and finds the best <em>k</em> (number of neighbors) in an iterative process. The following step, is feeding the test data, which has not been seen previously by the model, to evaluate its accuracy.</p>
+<p>Moving forward, the goal of the <em>K-Nearest Neighbor</em> Book Classifier is to classify a book passed as input as worth reading and provide recommendations of similar books, that based on my likes I will enjoy reading. The algorithm uses <em>euclidean</em> distance to determine the distance between the book&rsquo;s features. In that sense, using <em>sklearn.neighbors</em> the <em>features_train</em> and <em>labels_train</em> datasets are fed to the <em>KNN</em> model and since I only like to get 9 book recommendations <em>k</em> is set to 9. Figure 1 shows the classifier accuracy as <em>k</em> changes.</p>
 <figure>
-    <img src="https://princekike27.github.io/Enrique_Portfolio/images/Project7_ConfuMat.png"/> <figcaption>
-            <h4>Figure 1: Confusion Matrix of Logistic Model</h4>
+    <img src="https://princekike27.github.io/Enrique_Portfolio/images/Project8_K_Accuracy.png"/> <figcaption>
+            <h4>Figure 1: Book Classifier Accuracy as K Changes</h4>
         </figcaption>
 </figure>
 
-<p>The Confusion Matrix in Figure 1 shows the number of True Positives, True Negatives, False Positives and False Negatives. The number of True Positives is 74 that is the number of times the model predicted the passenger survived and he survived. There are 155 True Negatives that is the number of times the model predicted the passenger perished and he perished. On the other hand, there are 12 False Positives that is the number of times the model predicted the passenger survived ant he perished. Finally, the number of False Negatives is 21 that is the number of times the model predicted the passenger perished and he survived.</p>
+<h3 id="book-classifier-recommendations">Book Classifier Recommendations</h3>
+<p>Taken into account what was said before, I tested the <em>KNN</em> classifier with two books, <em>Tuf Voyaging</em> a science fiction novel written in 1986 by George R.R. Martin and the <em>Perennial Philosohpy</em> a mysticism study written in 1945 by Aldous Huxley. I created a function <em>get_recommendations</em> that takes the books features as parameters, normalizes them, classifies the book as 1 if the algorithm predicts I will enjoy the book and as 0 if I won&rsquo;t like it. The algorithm speaks as <em>Multivac</em>, in honor of Isaac Asimov&rsquo;s legendary computer. The results of the test were that both books were classified as 1, a print of what the function returns with the recommendations and authors for each book can be seen below.</p>
+<figure>
+    <img src="https://princekike27.github.io/Enrique_Portfolio/images/Project8_get_recommendations.JPG"/> <figcaption>
+            <h4>Figure 2: Book Recommendations</h4>
+        </figcaption>
+</figure>
+
 <hr>
 <h4 id="to-see-the-project-code-click-on-the-following-link">To see the project code click on the following link:</h4>
-<p><a href="https://github.com/princeKike27/Titanic-Survival">Link to GitHub Repository</a></p>
+<p><a href="https://github.com/princeKike27/Book-Classifier/blob/main/BookClassifieripynb.ipynb">Link to GitHub Repository</a></p>
 <ul class="pa0">
   
 </ul>

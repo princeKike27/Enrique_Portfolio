@@ -6,7 +6,16 @@
     <description>Recent content in Portafolio de Análisis de Datos on Enrique Barón Gómez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 May 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://princekike27.github.io/Enrique_Portfolio/es/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Nov 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://princekike27.github.io/Enrique_Portfolio/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ML: K-Vecinos Más Cercanos - Clasificador de Libros</title>
+      <link>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-8/</link>
+      <pubDate>Sat, 06 Nov 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-8/</guid>
+      <description>Para este proyecto analicé los datos del Book-Crossings dataset el cual contiene, 1.1 millon de clasificaciones, en una escala de 1 a 10, de 270,000 libros por parte de 90,000 usuarios. Con esto en mente, utilizando el algoritmo K-Vecinos Más Cercano (KNN) creé un clasificador de libros que basandose en características como el año de publicación y el autor predice si me va a gustar el libro y, me va a recomendar otros libros similares para leer.</description>
+    </item>
+    
     <item>
       <title>ML: Predicción de la Tasa de Supervivencia en el Hundimiento del Titanic</title>
       <link>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-7/</link>
