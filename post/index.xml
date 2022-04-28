@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Dec 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://princekike27.github.io/Enrique_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>ML: Poland House Price Calculator</title>
+      <link>https://princekike27.github.io/Enrique_Portfolio/post/project-9/</link>
+      <pubDate>Sun, 17 Apr 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://princekike27.github.io/Enrique_Portfolio/post/project-9/</guid>
+      <description>For this project I analyzed data from the housing market in 3 cities in Poland: Krakow, Warsaw and Poznán. Using a dataset from Kaggle I created a Multiple Linear Regression Model that predicts a houses&#39; price based on features like its city, the number of rooms, number of floors, its area and the year it was built. The model is then exported to a server and is used to create a web application.</description>
+    </item>
+    
+    <item>
       <title>ML: K Nearest Neighbors Book Recommendation Classifier</title>
       <link>https://princekike27.github.io/Enrique_Portfolio/post/project-8/</link>
       <pubDate>Sat, 06 Nov 2021 10:58:08 -0400</pubDate>
@@ -68,15 +77,6 @@
       
       <guid>https://princekike27.github.io/Enrique_Portfolio/post/project-2/</guid>
       <description>For this project I created a Python implementation of the Magic 8-Ball game. The Magic 8-Ball is a popular toy developed in the 1950s for fortune-telling or advice seeking. The user asks a yes–no question to the ball, then turns it over to reveal an answer in a window on the ball. It was invented in 1950 by Albert C. Carter and Abe Bookman and is currently manufactured by Mattel.</description>
-    </item>
-    
-    <item>
-      <title>Analytics: Roller Coaster Data</title>
-      <link>https://princekike27.github.io/Enrique_Portfolio/post/project-3/</link>
-      <pubDate>Sat, 19 Dec 2020 11:00:59 -0400</pubDate>
-      
-      <guid>https://princekike27.github.io/Enrique_Portfolio/post/project-3/</guid>
-      <description>For this project I analyzed data from the best ranked wooden and steel Roller Coasters in the world between 2013 to 2018. Roller Coasters are thrilling amusement park rides designed to make you squeal and scream! They take you up high, drop you to the ground quickly, and sometimes even spin you upside down before running to a stop. Roller Coasters are often split into two main categories based on their construction material: wood or steel.</description>
     </item>
     
   </channel>

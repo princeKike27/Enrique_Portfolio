@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://princekike27.github.io/Enrique_Portfolio/</loc>
-    <lastmod>2021-11-06T10:58:08-04:00</lastmod>
+    <lastmod>2022-04-17T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -17,6 +17,13 @@
                 hreflang="en"
                 href="https://princekike27.github.io/Enrique_Portfolio/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://princekike27.github.io/Enrique_Portfolio/post/project-9/</loc>
+    <lastmod>2022-04-17T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -64,13 +71,6 @@
   <url>
     <loc>https://princekike27.github.io/Enrique_Portfolio/post/project-2/</loc>
     <lastmod>2021-01-12T11:13:32-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://princekike27.github.io/Enrique_Portfolio/post/project-3/</loc>
-    <lastmod>2020-12-19T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

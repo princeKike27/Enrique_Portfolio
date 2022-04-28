@@ -6,7 +6,16 @@
     <description>Recent content in Portafolio de Análisis de Datos on Enrique Barón Gómez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Nov 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://princekike27.github.io/Enrique_Portfolio/es/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Apr 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://princekike27.github.io/Enrique_Portfolio/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ML: Calculadora para Predecir el Precio de una Vivienda en Polonia</title>
+      <link>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-9/</link>
+      <pubDate>Sun, 17 Apr 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-9/</guid>
+      <description>Para este proyecto analicé los datos del mercado inmobiliario en 3 ciudades de Polonia: Cracovia, Varsovia y Poznán. Utilizando un dataset de Kaggle creé un modelo de Regresión Lineal que predice el precio de una vivienda de acuerdo a sus características como lo son: la ciudad donde se enecuentra ubicada, el número de habitaciones, número de pisos, su área en metros cuadrados y el año en que fue cosntruida. Al final, el modelo es exportado a un servidor y utilizado para crear una aplicación web.</description>
+    </item>
+    
     <item>
       <title>ML: K-Vecinos Más Cercanos - Clasificador de Libros</title>
       <link>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-8/</link>
@@ -68,15 +77,6 @@
       
       <guid>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-1/</guid>
       <description>Para este proyecto cree una implementación en Python del juego Bola 8 - Mágica. Este juguete fue desarrollado en la decada de 1950 y alzanzo grandes niveles de popularidad al ser utilizado para la adivinación y la busqueda de consejos. El usuario le hace una pregunta del tipo si/no a la bola mágica y luego procede a voltearla para ver la respuesta a su pregunta. Fue creado por Albert C. Carter y Abe Bookman y actualmente es producida por Mattel.</description>
-    </item>
-    
-    <item>
-      <title>Analytics: Montañas Rusas</title>
-      <link>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-3/</link>
-      <pubDate>Sat, 19 Dec 2020 11:00:59 -0400</pubDate>
-      
-      <guid>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-3/</guid>
-      <description>Para este proyecto analicé los datos de las mejores montañas rusas en el mundo entre el año 2013 al 2018. Las montañas rusas son atracciones de los parques de diversiones que están diseñadas para hacerte gritar. Te llevan a lo alto, te dejan caer al suelo rápidamente y, a veces, incluso te dan la vuelta antes de detenerte. Las montañas rusas se dividen en dos categorias principales, madera o metal, dependiendo de su material de construcción.</description>
     </item>
     
     <item>
