@@ -1,52 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portafolio de Análisis de Datos on Enrique Barón Gómez</title>
+    <title>Portafolio de Ciencia y Análisis de Datos on Enrique Barón Gómez</title>
     <link>https://princekike27.github.io/Enrique_Portfolio/es/</link>
-    <description>Recent content in Portafolio de Análisis de Datos on Enrique Barón Gómez</description>
+    <description>Recent content in Portafolio de Ciencia y Análisis de Datos on Enrique Barón Gómez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Apr 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://princekike27.github.io/Enrique_Portfolio/es/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Jun 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://princekike27.github.io/Enrique_Portfolio/es/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ML: Calculadora para Predecir el Precio de una Vivienda en Polonia</title>
       <link>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-9/</link>
-      <pubDate>Sun, 17 Apr 2022 10:58:08 -0400</pubDate>
+      <pubDate>Fri, 17 Jun 2022 10:58:08 -0400</pubDate>
       
       <guid>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-9/</guid>
-      <description>Para este proyecto analicé los datos del mercado inmobiliario en 3 ciudades de Polonia: Cracovia, Varsovia y Poznán. Utilizando un dataset de Kaggle creé un modelo de Regresión Lineal que predice el precio de una vivienda de acuerdo a sus características como lo son: la ciudad donde se enecuentra ubicada, el número de habitaciones, número de pisos, su área en metros cuadrados y el año en que fue cosntruida. Al final, el modelo es exportado a un servidor y utilizado para crear una aplicación web.</description>
+      <description>Para este proyecto analicé los datos del mercado inmobiliario en 3 ciudades de Polonia: Cracovia, Varsovia y Poznán. Utilizando un dataset de Kaggle creé un modelo de Regresión Lineal que predice el precio de una vivienda de acuerdo a sus características como lo son: la ciudad donde se encuentra ubicada, el número de habitaciones, número de pisos, su área en metros cuadrados y el año en que fue cosntruida.
+A lo largo del proyecto se encuentra:</description>
     </item>
     
     <item>
       <title>ML: K-Vecinos Más Cercanos - Clasificador de Libros</title>
       <link>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-8/</link>
-      <pubDate>Sat, 06 Nov 2021 10:58:08 -0400</pubDate>
+      <pubDate>Sun, 06 Feb 2022 10:58:08 -0400</pubDate>
       
       <guid>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-8/</guid>
       <description>Para este proyecto analicé los datos del Book-Crossings dataset el cual contiene, 1.1 millon de clasificaciones, en una escala de 1 a 10, de 270,000 libros por parte de 90,000 usuarios. Con esto en mente, utilizando el algoritmo K-Vecinos Más Cercano (KNN) creé un clasificador de libros que basandose en características como el año de publicación y el autor predice si me va a gustar el libro y, me va a recomendar otros libros similares para leer.</description>
     </item>
     
     <item>
-      <title>ML: Predicción de la Tasa de Supervivencia en el Hundimiento del Titanic</title>
-      <link>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-7/</link>
-      <pubDate>Sat, 29 May 2021 10:58:08 -0400</pubDate>
-      
-      <guid>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-7/</guid>
-      <description>Para este proyecto analicé los datos de los pasajeros a bordo del Titanic. Creé un modelo de Regresión Logístico que predice cuales pasajeros sobrevivieron al hundimiento del barco, basado en características (features) como la edad y la clase del tiquete. El Titanic zarpo en 1912 en su primer viaje con la intención de cruzar el Atlántico de Southampton, Inglaterra, a Nueva York. El barco no pudo terminar su viaje ya que, choco contra un iceberg y se hundio causando la muerte de 1,502 de sus 2,224 pasajeros.</description>
-    </item>
-    
-    <item>
-      <title>ML: Predicción de la Disminución en la Producción de Miel de Abejas en Estados Unidos</title>
-      <link>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-4/</link>
-      <pubDate>Mon, 17 May 2021 10:58:08 -0400</pubDate>
-      
-      <guid>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-4/</guid>
-      <description>Para este proyecto analicé los datos de la producción de miel de abejas en los Estados Unidos entre el año 1998 al 2012. Como se ha escuchado, la población de abejas a nivel mundial se encuentra actualmente en un estado preocupante. La disminución de abejas polinizadoras causará un impacto devastador en todo el planeta ya que, estas son las mas importantes polinizadoras de frutas y verduras a nivel mundial. Se estima que un tercio de de la comida que consumimos a diario como el aguacate, la soja, los esparragos y los kiwis dependen de la polinización de abejas.</description>
-    </item>
-    
-    <item>
       <title>Analytics: Especies en Peligro de Extinción en Cuatro Parques Nacionales de Estados Unidos</title>
       <link>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-6/</link>
-      <pubDate>Sun, 02 May 2021 10:58:08 -0400</pubDate>
+      <pubDate>Thu, 02 Sep 2021 10:58:08 -0400</pubDate>
       
       <guid>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-6/</guid>
       <description>Para este proyecto analicé los datos del Servicio de Parques Nacionales de Estados Unidos sobre especies en peligro de extición en los diferentes Parques Nacionales. Tomando el rol de un analista de biodiversidad, el objetivo es garantizar la supervivencia de las especies en riesgo para mantener los niveles de biodiversidad dentro de los parques. En ese sentido, identificaré los patrones que pueden llegar a existir en los diferentes tipos de especies que estan en peligro de extinción y su relación con los Parques Naturales donde habitan.</description>
@@ -68,15 +51,6 @@
       
       <guid>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-2/</guid>
       <description>Para este proyecto analicé los datos de las Copas Mundiales de la FIFA entre 1930 y el 2014. Este torneo es una competición internacional de fútbol, donde los paises utilizan a sus mejores jugadores para lograr clasificar y obtener el trofeo de campeón mundial. Se juega cada cuatro años desde su inaguracion en 1930, a excepción de 1942 y 1946 donde la Segunda Guerra Mundial impidió que se llevara a cabo la competición.</description>
-    </item>
-    
-    <item>
-      <title>Python: Bola 8 - Python Mágica</title>
-      <link>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-1/</link>
-      <pubDate>Tue, 12 Jan 2021 11:13:32 -0400</pubDate>
-      
-      <guid>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-1/</guid>
-      <description>Para este proyecto cree una implementación en Python del juego Bola 8 - Mágica. Este juguete fue desarrollado en la decada de 1950 y alzanzo grandes niveles de popularidad al ser utilizado para la adivinación y la busqueda de consejos. El usuario le hace una pregunta del tipo si/no a la bola mágica y luego procede a voltearla para ver la respuesta a su pregunta. Fue creado por Albert C. Carter y Abe Bookman y actualmente es producida por Mattel.</description>
     </item>
     
     <item>

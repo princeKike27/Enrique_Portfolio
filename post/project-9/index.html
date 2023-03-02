@@ -34,13 +34,13 @@
 <meta property="og:description" content="Creation of a Linear Regression Model to Predict House Prices" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://princekike27.github.io/Enrique_Portfolio/post/project-9/" />
-<meta property="article:published_time" content="2022-04-17T10:58:08-04:00" />
-<meta property="article:modified_time" content="2022-04-17T10:58:08-04:00" /><meta property="og:site_name" content="Enrique Barón Gómez" />
+<meta property="article:published_time" content="2022-06-17T10:58:08-04:00" />
+<meta property="article:modified_time" content="2022-06-17T10:58:08-04:00" /><meta property="og:site_name" content="Enrique Barón Gómez" />
 <meta itemprop="name" content="ML: Poland House Price Calculator">
 <meta itemprop="description" content="Creation of a Linear Regression Model to Predict House Prices">
-<meta itemprop="datePublished" content="2022-04-17T10:58:08-04:00" />
-<meta itemprop="dateModified" content="2022-04-17T10:58:08-04:00" />
-<meta itemprop="wordCount" content="675">
+<meta itemprop="datePublished" content="2022-06-17T10:58:08-04:00" />
+<meta itemprop="dateModified" content="2022-06-17T10:58:08-04:00" />
+<meta itemprop="wordCount" content="553">
 
 
 
@@ -163,25 +163,24 @@
       <h1 class="f1 athelas mt3 mb1">ML: Poland House Price Calculator</h1>
       
       
-      <time class="f6 mv4 dib tracked" datetime="2022-04-17T10:58:08-04:00">April 17, 2022</time>
+      <time class="f6 mv4 dib tracked" datetime="2022-06-17T10:58:08-04:00">June 17, 2022</time>
 
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>For this project I analyzed data from the housing market in 3 cities in Poland: Krakow, Warsaw and Poznán. Using a dataset from <em>Kaggle</em> I created a Multiple Linear Regression Model that predicts a houses' price based on features like its city, the number of rooms, number of floors, its area and the year it was built. The model is then exported to a server and is used to create a web application.</p>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>For this project I analyzed data from the housing market in 3 cities in Poland: Krakow, Warsaw and Poznán. Using a dataset from <em>Kaggle</em> I created a Multiple Linear Regression Model that predicts a houses' price based on features like its city, the number of rooms, number of floors, its area and the year it was built.</p>
 <p>Throughout the project you will be able to find:</p>
 <ul>
 <li>Data cleaning and standardization.</li>
 <li>Analysis of relevant features to build the model.</li>
 <li>Multiple Linear Regression Model to predict a house&rsquo;s price.</li>
-<li>Creation of Web App - Poland House Price Calculator.</li>
 </ul>
 <h2 id="datasets-and-technologies-used">Datasets and Technologies Used</h2>
 <p>The analysis was done with a csv file from <em>Kaggle</em>. It contains the address of the house, city, number of floors, house id, latitude, longitude, number of rooms, area in square meters, year built and its price.</p>
 <p>In terms of technologies, <em>python</em> was used for data analysis with the following tools: <em>pandas</em> for data tidying and manipulation, <em>numpy</em> for numerical analysis <em>matplotlib</em> and <em>seaborn</em> for plots and graphs, <em>torch</em> for <em>Automatic Differentiation</em> and <em>Stochastic Gradient Descent</em> for finding the gradient of cost and optimizing the model.</p>
 <h2 id="data-analysis">Data Analysis</h2>
 <h3 id="features-for-model">Features for Model</h3>
-<p>The features selected for the model are: <em>is_warsaw</em>, <em>number_floor</em>, <em>number_rooms</em>, <em>area_sq</em> and <em>is_greater_1970</em>. In that sense, based on these characteristics a price for a house in Poland is predicted in <em>euros</em>. I used binning techniques on the previously mentioned features so they could be converted into numbers and be fed into the model. For example, the <em>is_greater_1970</em> feature goes through every house in the dataset and maps its value to 1 if the year it was built is greater than 1970. Also, <em>normalization</em> was used on the <em>area_sq</em> feature because it is in a different scale and its distribution is skewed, after its transformation, its range is between 0 and 1. Finally, outliers and incorrect values were detected and removed from the analysis. The image below shows the features correlation heatmap.</p>
+<p>The features selected for the model are: <em>is_warsaw</em>, <em>number_floor</em>, <em>number_rooms</em>, <em>area_sq</em> and <em>is_greater_1970</em>. In that sense, based on these characteristics a price for a house in Poland is predicted in <em>euros</em>. I used binning techniques on the previously mentioned features so they could be converted into numbers and be fed into the model. For example, the <em>is_greater_1970</em> feature goes through every house in the dataset and maps its value to 1 if the year it was built is greater than 1970. Also, <em>normalization</em> was used on the <em>area_sq</em> feature because it is in a different scale and its distribution is skewed, after its transformation, its range is between 0 and 1. Finally, outliers and incorrect values were detected and removed from the analysis. The image below shows the features correlation <em>heatmap</em>.</p>
 <figure>
     <img src="https://princekike27.github.io/Enrique_Portfolio/images/Project9_Heatmap.png"/> <figcaption>
             <h4>Figure 1: Features Correlation Heatmap</h4>
@@ -198,20 +197,9 @@
         </figcaption>
 </figure>
 
-<h3 id="web-app---poland-house-price-calculator">Web App - Poland House Price Calculator</h3>
-<p>With the model already trained, its <em>Cost</em> minimized and its predictions accurate, the model was exported in a <em>pickle</em> file and it was used to build a Web Application with <em>Python</em>, <em>Flask</em>, <em>html</em> and <em>css</em>, and it was deployed using <em>Heroku</em>. The <em>Poland House Price Calculator</em> enables the user to predict the price in <em>euros</em> of a house in Poland by submitting the information in the form seen below.</p>
-<figure>
-    <img src="https://princekike27.github.io/Enrique_Portfolio/images/Project9_WebApp.PNG"/> <figcaption>
-            <h4>Figure 3: Poland House Price Calculator</h4>
-        </figcaption>
-</figure>
-
 <hr>
 <h4 id="to-see-the-project-code-click-on-the-following-link">To see the project code click on the following link:</h4>
 <p><a href="https://github.com/princeKike27/Poland-House-Prices-Prediction/blob/main/Poland_House_Prices_Prediction.ipynb">Link to GitHub Repository</a></p>
-<hr>
-<h4 id="to-go-to-the-web-application-click-on-the-following-link">To go to the Web Application click on the following link:</h4>
-<p><a href="https://poland-house-predictor.herokuapp.com/">Link to Web App</a></p>
 <ul class="pa0">
   
 </ul>
@@ -234,7 +222,7 @@
     <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
   <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://princekike27.github.io/Enrique_Portfolio/" >
-    &copy;  Enrique Barón Gómez 2022 
+    &copy;  Enrique Barón Gómez 2023 
   </a>
     <div>
 

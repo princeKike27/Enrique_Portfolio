@@ -1,52 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Analysis Portfolio on Enrique Barón Gómez</title>
+    <title>Data Science and Analytics Portfolio on Enrique Barón Gómez</title>
     <link>https://princekike27.github.io/Enrique_Portfolio/</link>
-    <description>Recent content in Data Analysis Portfolio on Enrique Barón Gómez</description>
+    <description>Recent content in Data Science and Analytics Portfolio on Enrique Barón Gómez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Apr 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://princekike27.github.io/Enrique_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Jun 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://princekike27.github.io/Enrique_Portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ML: Poland House Price Calculator</title>
       <link>https://princekike27.github.io/Enrique_Portfolio/post/project-9/</link>
-      <pubDate>Sun, 17 Apr 2022 10:58:08 -0400</pubDate>
+      <pubDate>Fri, 17 Jun 2022 10:58:08 -0400</pubDate>
       
       <guid>https://princekike27.github.io/Enrique_Portfolio/post/project-9/</guid>
-      <description>For this project I analyzed data from the housing market in 3 cities in Poland: Krakow, Warsaw and Poznán. Using a dataset from Kaggle I created a Multiple Linear Regression Model that predicts a houses&#39; price based on features like its city, the number of rooms, number of floors, its area and the year it was built. The model is then exported to a server and is used to create a web application.</description>
+      <description>For this project I analyzed data from the housing market in 3 cities in Poland: Krakow, Warsaw and Poznán. Using a dataset from Kaggle I created a Multiple Linear Regression Model that predicts a houses&#39; price based on features like its city, the number of rooms, number of floors, its area and the year it was built.
+Throughout the project you will be able to find:
+ Data cleaning and standardization.</description>
     </item>
     
     <item>
       <title>ML: K Nearest Neighbors Book Recommendation Classifier</title>
       <link>https://princekike27.github.io/Enrique_Portfolio/post/project-8/</link>
-      <pubDate>Sat, 06 Nov 2021 10:58:08 -0400</pubDate>
+      <pubDate>Sun, 06 Feb 2022 10:58:08 -0400</pubDate>
       
       <guid>https://princekike27.github.io/Enrique_Portfolio/post/project-8/</guid>
       <description>For this project I analyzed data from the Book-Crossings dataset which contains 1.1 million ratings, on a scale from 1-10, of 270,000 books by 90,000 users. In that sense, using the K-Nearest Neighbors algorithm I created a book classifier that based on features like the book´s year of publication and its author will predict if I will like a book, and it will recommend me other similar books to read.</description>
     </item>
     
     <item>
-      <title>ML: Prediction of Passengers Survival Rate in the Titanic Sinking</title>
-      <link>https://princekike27.github.io/Enrique_Portfolio/post/project-7/</link>
-      <pubDate>Sat, 29 May 2021 10:58:08 -0400</pubDate>
-      
-      <guid>https://princekike27.github.io/Enrique_Portfolio/post/project-7/</guid>
-      <description>For this project I analyzed data from the passengers on board the Titanic. I created a Logistic Regression model that predicts which passengers survived the sinking of the ship, based on features like age and ticket class. The RMS Titanic set sail on its maiden voyage in 1912, crossing the Atlantic from Southampton, England, to New York City. The ship never completed the voyage, it sank to the bottom of the Atlantic Ocean after hitting an iceberg, bringing down 1,502 of 2,224 passengers on board.</description>
-    </item>
-    
-    <item>
-      <title>ML: Prediction of Honey Bee Production Decline in the US </title>
-      <link>https://princekike27.github.io/Enrique_Portfolio/post/project-4/</link>
-      <pubDate>Mon, 17 May 2021 10:58:08 -0400</pubDate>
-      
-      <guid>https://princekike27.github.io/Enrique_Portfolio/post/project-4/</guid>
-      <description>For this project I analyzed data from honey bee production in the US from 1998 to 2012. As you may have heard, honey bees are in a precarious state right now, news and articles are informing about the decline of the honey bees population and the impact it will cause on the entire planet. This is because, honey bees are the world’s most important pollinator of food crops. It is estimated that one third of the food that we consume each day like avocados, soybeans, asparagus and kiwis rely on bees pollination.</description>
-    </item>
-    
-    <item>
       <title>Analytics: Endangered Species in United States National Parks</title>
       <link>https://princekike27.github.io/Enrique_Portfolio/post/project-6/</link>
-      <pubDate>Sun, 02 May 2021 10:58:08 -0400</pubDate>
+      <pubDate>Thu, 02 Sep 2021 10:58:08 -0400</pubDate>
       
       <guid>https://princekike27.github.io/Enrique_Portfolio/post/project-6/</guid>
       <description>For this project I analyzed data from the US National Parks Service about endangered species in different parks. Taking the role of a biodiversity analyst, the goal is to ensure the survival of at-risk species to maintain the level of biodiversity within the parks. In that sense, I will identify if there are any patterns in the types of species that become endangered and their relationship to the National Parks.</description>
@@ -68,15 +52,6 @@
       
       <guid>https://princekike27.github.io/Enrique_Portfolio/post/project-1/</guid>
       <description>For this project I analyzed data from the FIFA World Cups between 1930 and 2014. This tournament is an international football competition where countries qualify to send teams made up of the best players from each nation to obtain the World Cup Championship. It has been awarded every four years since the inaugural tournament in 1930, except in 1942 and 1946 when it wasn&amp;rsquo;t held due to the Second World War.</description>
-    </item>
-    
-    <item>
-      <title>Python: Magic-8 Python Ball</title>
-      <link>https://princekike27.github.io/Enrique_Portfolio/post/project-2/</link>
-      <pubDate>Tue, 12 Jan 2021 11:13:32 -0400</pubDate>
-      
-      <guid>https://princekike27.github.io/Enrique_Portfolio/post/project-2/</guid>
-      <description>For this project I created a Python implementation of the Magic 8-Ball game. The Magic 8-Ball is a popular toy developed in the 1950s for fortune-telling or advice seeking. The user asks a yes–no question to the ball, then turns it over to reveal an answer in a window on the ball. It was invented in 1950 by Albert C. Carter and Abe Bookman and is currently manufactured by Mattel.</description>
     </item>
     
     <item>
