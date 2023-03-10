@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://princekike27.github.io/Enrique_Portfolio/</loc>
-    <lastmod>2022-06-17T10:58:08-04:00</lastmod>
+    <lastmod>2023-03-03T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -17,6 +17,13 @@
                 hreflang="en"
                 href="https://princekike27.github.io/Enrique_Portfolio/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://princekike27.github.io/Enrique_Portfolio/post/project-10/</loc>
+    <lastmod>2023-03-03T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>

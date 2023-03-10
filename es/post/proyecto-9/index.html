@@ -40,7 +40,7 @@
 <meta itemprop="description" content="Creación de un Modelo de Regresión Lineal para Predecir el Precio de una Vivienda">
 <meta itemprop="datePublished" content="2022-06-17T10:58:08-04:00" />
 <meta itemprop="dateModified" content="2022-06-17T10:58:08-04:00" />
-<meta itemprop="wordCount" content="652">
+<meta itemprop="wordCount" content="676">
 
 
 
@@ -168,7 +168,7 @@
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>Para este proyecto analicé los datos del mercado inmobiliario en 3 ciudades de Polonia: Cracovia, Varsovia y Poznán. Utilizando un <em>dataset</em> de <em>Kaggle</em> creé un modelo de Regresión Lineal que predice el precio de una vivienda de acuerdo a sus características como lo son: la ciudad donde se encuentra ubicada, el número de habitaciones, número de pisos, su área en metros cuadrados y el año en que fue cosntruida.</p>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>Para este proyecto analicé los datos del mercado inmobiliario en 3 ciudades de Polonia: Cracovia, Varsovia y Poznán. Utilizando un <em>dataset</em> de <em>Kaggle</em> creé un modelo de Regresión Lineal que predice el precio de una vivienda de acuerdo a sus características como lo son: la ciudad donde se encuentra ubicada, el número de habitaciones, número de pisos, su área en metros cuadrados y el año en que fue construida. Así pues, utilizando el <em>Descenso de Gradiente</em> se van a encontrar los mejores parametros que minimizan el costo y optimizan el desempeño del modelo.</p>
 <p>A lo largo del proyecto se encuentra:</p>
 <ul>
 <li>Limpieza de datos y estandarización.</li>
@@ -189,7 +189,7 @@
 
 <p>Como se puede ver en el mapa de calor expuesto, hay muy poca o nada de <em>Multicolinearidad</em> entre las características. Ninguna es menor a -0.5 y solamente 1 tiene un valor mayor a 0.5. Esto significa, que las caracterísiticas seleccionadas son linearmente independientes entre si y son adecuadas para un modelo de regresión Lineal.</p>
 <h3 id="modelo-de-regresión-lineal">Modelo de Regresión Lineal</h3>
-<p>Continuando con lo expuesto anteriormente, los datos son divididos en entrenamiento (80% de los datos) y test (el restante 20%) tanto para las caracaterísticas como para las etiquetas de precio de las viviendas. Con esto hecho, el <em>foward pass</em> es iniciado, se crea la funcion de regresión para calcular las predicciones y se inician los parametros de las características en valores aleatorios. En el paso 2, el costo <em>C</em> es calculado utilizando el <em>Error Cuadrático Medio</em>, el cual, promedia el costo cuadratico entre la predicción y el precio verdadero de la casa. En el paso 3, la gradiente del costo es calculada con respecto a los parametros y, utilizando <em>Diferenciación Automatica</em> se encuentra las derivadas parciales del costo <em>C</em> con respecto a cada uno de los parametros. Finalmente, en el paso 4 el <em>Descenso de Gradiente</em> es utilizado a través de un proceso iterativo para encontrar los mejores parametros y minimizar el costo <em>C</em>.</p>
+<p>Continuando con lo expuesto anteriormente, los datos son divididos en entrenamiento (80% de los datos) y test (el restante 20%) tanto para las características como para las etiquetas de precio de las viviendas. Con esto hecho, el <em>foward pass</em> es iniciado, se crea la funcion de regresión para calcular las predicciones y se inician los parametros de las características en valores aleatorios. En el paso 2, el costo <em>C</em> es calculado utilizando el <em>Error Cuadrático Medio</em>, el cual, promedia el costo cuadratico entre la predicción y el precio verdadero de la casa. En el paso 3, la gradiente del costo es calculada con respecto a los parametros y, utilizando <em>Diferenciación Automatica</em>, se encuentran las derivadas parciales del costo <em>C</em> con respecto a cada uno de los parametros. Finalmente, en el paso 4 el <em>Descenso de Gradiente</em> es utilizado a través de un proceso iterativo para encontrar los mejores parametros y minimizar el costo <em>C</em>.</p>
 <p>De esta manera, luego de 1000 épocas (iteraciones) el costo <em>C</em> pasa de 54.749 a 0.282. La figura 2, que se muestra a continuación, muestra el gráfico de dispersión entre el valor real de la vivienda y la predicción del modelo.</p>
 <figure>
     <img src="https://princekike27.github.io/Enrique_Portfolio/images/Project9_Predictions.png"/> <figcaption>

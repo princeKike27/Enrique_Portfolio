@@ -6,16 +6,23 @@
     <description>Recent content in Data Science and Analytics Portfolio on Enrique Barón Gómez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jun 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://princekike27.github.io/Enrique_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Mar 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://princekike27.github.io/Enrique_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neural Network: Digit Recognizer</title>
+      <link>https://princekike27.github.io/Enrique_Portfolio/post/project-10/</link>
+      <pubDate>Fri, 03 Mar 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://princekike27.github.io/Enrique_Portfolio/post/project-10/</guid>
+      <description>For this project I&amp;rsquo;m going to build a Neural Network that classifies Hand Written Digits from the MNIST dataset. The MNIST dataset consists of thousands of handwritten digits and is used for training image processing systems. I will create the Neural Network Architecture, perform Forward Propagation, find the Gradients of the Parameters using Backward Propagation, find the best parameters using Gradient Descent and get the Predictions and Accuracy of the Neural Network.</description>
+    </item>
+    
     <item>
       <title>ML: Poland House Price Calculator</title>
       <link>https://princekike27.github.io/Enrique_Portfolio/post/project-9/</link>
       <pubDate>Fri, 17 Jun 2022 10:58:08 -0400</pubDate>
       
       <guid>https://princekike27.github.io/Enrique_Portfolio/post/project-9/</guid>
-      <description>For this project I analyzed data from the housing market in 3 cities in Poland: Krakow, Warsaw and Poznán. Using a dataset from Kaggle I created a Multiple Linear Regression Model that predicts a houses&#39; price based on features like its city, the number of rooms, number of floors, its area and the year it was built.
-Throughout the project you will be able to find:
- Data cleaning and standardization.</description>
+      <description>For this project I analyzed data from the housing market in 3 cities in Poland: Krakow, Warsaw and Poznán. Using a dataset from Kaggle I created a Multiple Linear Regression Model that predicts a houses&#39; price based on features like its city, the number of rooms, number of floors, its area and the year it was built. By using Gradient Descent I will find the best parameters that minimize cost and optimize the model performance.</description>
     </item>
     
     <item>

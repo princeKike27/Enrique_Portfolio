@@ -13,8 +13,7 @@
       <pubDate>Fri, 17 Jun 2022 10:58:08 -0400</pubDate>
       
       <guid>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-9/</guid>
-      <description>Para este proyecto analicé los datos del mercado inmobiliario en 3 ciudades de Polonia: Cracovia, Varsovia y Poznán. Utilizando un dataset de Kaggle creé un modelo de Regresión Lineal que predice el precio de una vivienda de acuerdo a sus características como lo son: la ciudad donde se encuentra ubicada, el número de habitaciones, número de pisos, su área en metros cuadrados y el año en que fue cosntruida.
-A lo largo del proyecto se encuentra:</description>
+      <description>Para este proyecto analicé los datos del mercado inmobiliario en 3 ciudades de Polonia: Cracovia, Varsovia y Poznán. Utilizando un dataset de Kaggle creé un modelo de Regresión Lineal que predice el precio de una vivienda de acuerdo a sus características como lo son: la ciudad donde se encuentra ubicada, el número de habitaciones, número de pisos, su área en metros cuadrados y el año en que fue construida. Así pues, utilizando el Descenso de Gradiente se van a encontrar los mejores parametros que minimizan el costo y optimizan el desempeño del modelo.</description>
     </item>
     
     <item>
