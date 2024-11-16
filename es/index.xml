@@ -6,29 +6,29 @@
     <description>Recent content in Portafolio de Ciencia y Análisis de Datos on Enrique Barón Gómez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jun 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://princekike27.github.io/Enrique_Portfolio/es/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Nov 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://princekike27.github.io/Enrique_Portfolio/es/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ML: Calculadora para Predecir el Precio de una Vivienda en Polonia</title>
-      <link>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-9/</link>
-      <pubDate>Fri, 17 Jun 2022 10:58:08 -0400</pubDate>
+      <title>NLP: Recomendador de Películas TF-IDF</title>
+      <link>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-11/</link>
+      <pubDate>Mon, 27 Nov 2023 10:58:08 -0400</pubDate>
       
-      <guid>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-9/</guid>
-      <description>Para este proyecto analicé los datos del mercado inmobiliario en 3 ciudades de Polonia: Cracovia, Varsovia y Poznán. Utilizando un dataset de Kaggle creé un modelo de Regresión Lineal que predice el precio de una vivienda de acuerdo a sus características como lo son: la ciudad donde se encuentra ubicada, el número de habitaciones, número de pisos, su área en metros cuadrados y el año en que fue construida. Así pues, utilizando el Descenso de Gradiente se van a encontrar los mejores parametros que minimizan el costo y optimizan el desempeño del modelo.</description>
+      <guid>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-11/</guid>
+      <description>Para este proyecto cree una aplicación web en python que utiliza un modelo TF-IDF de los generos y las palabras clave de las películas y la similitud de coseno, la cual mide la semejanza entre dos vectores, para recomendarle cinco películas al usuario, dado una película que le haya gustado. Se utilizó un set de datos de TMDB (The Movie Database) que contiene 5000 filmes, con sus respectivos generos y palabras clave, entre el año 1916 al 2017.</description>
     </item>
     
     <item>
-      <title>ML: K-Vecinos Más Cercanos - Clasificador de Libros</title>
-      <link>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-8/</link>
-      <pubDate>Sun, 06 Feb 2022 10:58:08 -0400</pubDate>
+      <title>ML: Clasificador de Religión de Países</title>
+      <link>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-10/</link>
+      <pubDate>Mon, 17 Jul 2023 10:58:08 -0400</pubDate>
       
-      <guid>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-8/</guid>
-      <description>Para este proyecto analicé los datos del Book-Crossings dataset el cual contiene, 1.1 millon de clasificaciones, en una escala de 1 a 10, de 270,000 libros por parte de 90,000 usuarios. Con esto en mente, utilizando el algoritmo K-Vecinos Más Cercano (KNN) creé un clasificador de libros que basandose en características como el año de publicación y el autor predice si me va a gustar el libro y, me va a recomendar otros libros similares para leer.</description>
+      <guid>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-10/</guid>
+      <description>Para este proyecto cree un clasificador que busca identificar correctamente la religión de un país dada su ubicación geográfica, su área en kilometros cuadrados, su población en millones de personas, su idioma y las características de su bandera, como lo son su color y las formas que contiene: circulos, cruces, estrellas, medias lunas, triangulos, etc&amp;hellip; Para este proposito, utilice el set de datos de banderas del repositorio de Machine Learning de la Universidad de California Irvine el cual, contiene información de 194 países.</description>
     </item>
     
     <item>
       <title>Analytics: Especies en Peligro de Extinción en Cuatro Parques Nacionales de Estados Unidos</title>
       <link>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-6/</link>
-      <pubDate>Thu, 02 Sep 2021 10:58:08 -0400</pubDate>
+      <pubDate>Fri, 02 Dec 2022 10:58:08 -0400</pubDate>
       
       <guid>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-6/</guid>
       <description>Para este proyecto analicé los datos del Servicio de Parques Nacionales de Estados Unidos sobre especies en peligro de extición en los diferentes Parques Nacionales. Tomando el rol de un analista de biodiversidad, el objetivo es garantizar la supervivencia de las especies en riesgo para mantener los niveles de biodiversidad dentro de los parques. En ese sentido, identificaré los patrones que pueden llegar a existir en los diferentes tipos de especies que estan en peligro de extinción y su relación con los Parques Naturales donde habitan.</description>
@@ -37,7 +37,7 @@
     <item>
       <title>Analytics: Expectativa de Vida y PIB</title>
       <link>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-5/</link>
-      <pubDate>Wed, 07 Apr 2021 10:58:08 -0400</pubDate>
+      <pubDate>Thu, 07 Apr 2022 10:58:08 -0400</pubDate>
       
       <guid>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-5/</guid>
       <description>Para este proyecto analicé los datos del Producto Interno Bruto (PIB) y la Expectativa de Vida de la Organización Mundial de la Salud y del Banco Mundial con el fin, de identificar la relación que existe entre el PIB y la expectativa de vida en seis paises. El PIB es el valor monetario total de todos los productos terminados y servicios que son producidos dentro de un país en un rango específico de tiempo.</description>
@@ -45,10 +45,10 @@
     
     <item>
       <title>Analytics: Copa Mundial de la FIFA</title>
-      <link>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-2/</link>
-      <pubDate>Sat, 23 Jan 2021 10:58:08 -0400</pubDate>
+      <link>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-1/</link>
+      <pubDate>Wed, 23 Mar 2022 10:58:08 -0400</pubDate>
       
-      <guid>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-2/</guid>
+      <guid>https://princekike27.github.io/Enrique_Portfolio/es/post/proyecto-1/</guid>
       <description>Para este proyecto analicé los datos de las Copas Mundiales de la FIFA entre 1930 y el 2014. Este torneo es una competición internacional de fútbol, donde los paises utilizan a sus mejores jugadores para lograr clasificar y obtener el trofeo de campeón mundial. Se juega cada cuatro años desde su inaguracion en 1930, a excepción de 1942 y 1946 donde la Segunda Guerra Mundial impidió que se llevara a cabo la competición.</description>
     </item>
     

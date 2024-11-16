@@ -4,9 +4,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>ML: Country Religion Classifier | Enrique Barón Gómez</title>
+    <title>NLP: TF-IDF Movie Recommender | Enrique Barón Gómez</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="description" content="Classifier to Predict the Religion of a Country">
+    <meta name="description" content="Creation of a Web App that uses TF-IDF and Cosine Similarity to Recommend Movies">
     <meta name="generator" content="Hugo 0.80.0" />
     
     
@@ -30,24 +30,24 @@
 
     
     
-    <meta property="og:title" content="ML: Country Religion Classifier" />
-<meta property="og:description" content="Classifier to Predict the Religion of a Country" />
+    <meta property="og:title" content="NLP: TF-IDF Movie Recommender" />
+<meta property="og:description" content="Creation of a Web App that uses TF-IDF and Cosine Similarity to Recommend Movies" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://princekike27.github.io/Enrique_Portfolio/post/project-10/" />
-<meta property="article:published_time" content="2023-07-17T10:58:08-04:00" />
-<meta property="article:modified_time" content="2023-07-17T10:58:08-04:00" /><meta property="og:site_name" content="Enrique Barón Gómez" />
-<meta itemprop="name" content="ML: Country Religion Classifier">
-<meta itemprop="description" content="Classifier to Predict the Religion of a Country">
-<meta itemprop="datePublished" content="2023-07-17T10:58:08-04:00" />
-<meta itemprop="dateModified" content="2023-07-17T10:58:08-04:00" />
-<meta itemprop="wordCount" content="620">
+<meta property="og:url" content="https://princekike27.github.io/Enrique_Portfolio/post/project-11/" />
+<meta property="article:published_time" content="2023-11-27T10:58:08-04:00" />
+<meta property="article:modified_time" content="2023-11-27T10:58:08-04:00" /><meta property="og:site_name" content="Enrique Barón Gómez" />
+<meta itemprop="name" content="NLP: TF-IDF Movie Recommender">
+<meta itemprop="description" content="Creation of a Web App that uses TF-IDF and Cosine Similarity to Recommend Movies">
+<meta itemprop="datePublished" content="2023-11-27T10:58:08-04:00" />
+<meta itemprop="dateModified" content="2023-11-27T10:58:08-04:00" />
+<meta itemprop="wordCount" content="589">
 
 
 
 <meta itemprop="keywords" content="" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="ML: Country Religion Classifier"/>
-<meta name="twitter:description" content="Classifier to Predict the Religion of a Country"/>
+<meta name="twitter:title" content="NLP: TF-IDF Movie Recommender"/>
+<meta name="twitter:description" content="Creation of a Web App that uses TF-IDF and Cosine Similarity to Recommend Movies"/>
 
 	
   </head>
@@ -60,7 +60,7 @@
 
   
   
-  <header class="cover bg-top" style="background-image: url('https://princekike27.github.io/Enrique_Portfolio/images/Project10_Banner.jpg');">
+  <header class="cover bg-top" style="background-image: url('https://princekike27.github.io/Enrique_Portfolio/images/Project11_Banner.jpg');">
     <div class="pb3-m pb6-l bg-black-60">
       <nav class="pv3 ph3 ph4-ns" role="navigation">
   <div class="flex-l justify-between items-center center">
@@ -137,10 +137,10 @@
 
       <div class="tc-l pv6 ph3 ph4-ns">
         
-          <h1 class="f2 f1-l fw2 white-90 mb0 lh-title">ML: Country Religion Classifier</h1>
+          <h1 class="f2 f1-l fw2 white-90 mb0 lh-title">NLP: TF-IDF Movie Recommender</h1>
           
             <h2 class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
-              Classifier to Predict the Religion of a Country
+              Creation of a Web App that uses TF-IDF and Cosine Similarity to Recommend Movies
             </h2>
           
         
@@ -160,84 +160,68 @@
         PROJECTS
       </aside>
       
-      <h1 class="f1 athelas mt3 mb1">ML: Country Religion Classifier</h1>
+      <h1 class="f1 athelas mt3 mb1">NLP: TF-IDF Movie Recommender</h1>
       
       
-      <time class="f6 mv4 dib tracked" datetime="2023-07-17T10:58:08-04:00">July 17, 2023</time>
+      <time class="f6 mv4 dib tracked" datetime="2023-11-27T10:58:08-04:00">November 27, 2023</time>
 
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>For this project I created a classifier to correctly identify the religion of a country given its geographical location, its area in square kilometers, its population in millions of people, its language and the characteristics of its flag such as its color and the shapes that appear on it, like: circles, crosses, sunstars, crescents, saltires, triangles, etc&hellip; For this task, I used the <em>flags</em> dataset from the repository of Machine Learning of the University of California Irvine which contains information of 194 countries.</p>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>For this project I created a python Web App that uses a TF-IDF model of the genres and keywords of movies and cosine similarity, that measures the similarity between two non-zero vectors, to recommend five movies to the user, given a movie the user likes. For this task, I used a dataset from TMDB (The Movie Database) that contains 5000 movies, with their respective <em>genres</em> and <em>keywords</em>, between the year 1916 to 2017.</p>
 <p>Throughout the project you will be able to find:</p>
 <ul>
 <li>Data cleaning and standardization.</li>
-<li>Descriptive Statistics on predictors to identify outliers.</li>
-<li>Selection of the most influential predictors for correctly classifying a country&rsquo;s religion.</li>
-<li>Creation of Pipelines to test different classification models and find the best classifier.</li>
+<li>Creation of Vocabulary and Term-Frequency Matrices.</li>
+<li>TF-IDF Model.</li>
+<li>Cosine Similarity between Movies.</li>
+<li>Web Application.</li>
 </ul>
-<h2 id="y--output">Y ⟶ Output</h2>
-<p>The target variable (<em>Y</em>) is the religion of a given country and is categorized as its shown below:</p>
+<h2 id="tf-idf-model">TF-IDF Model</h2>
+<h3 id="genres-and-keywords-of-each-movie">Genres and Keywords of each Movie</h3>
+<p>The <em>genres</em> and <em>keywords</em> columns are in JSON format hence, the values of each of these columns need to be extracted and stored in a <em>string</em>. By creating a custom function that receives as a parameter a movie, it turns its <em>genres</em> and <em>keywords</em> from JSON to a dictionary list. By using a <em>for loop</em> each <em>genre</em> and <em>keyword</em> is extracted and concatenated to a string. The function returns the <em>genres</em> and <em>keywords</em> of a movie in a single <em>string</em>.</p>
+<p>The next step is to map each unique <em>genre</em> and <em>keyword</em> to create a <em>Term-Frequency Matrix</em>. The <em>Tokens</em> will be the unique <em>genres</em> or <em>keywords</em> <em>(V: 9767)</em> while the <em>Corpus</em>, the number of movies in the dataset being analyzed <em>(N: 4777)</em>. In that sense, the <em>Term-Freqency Matrix</em> will have dimensions <em>(N, V)</em> where each row represents a movie and the columns with a value greater than 0 represent a <em>genre</em> or <em>keyword</em> of the movie.</p>
+<h3 id="creation-of-tf-idf-model">Creation of TF-IDF Model</h3>
+<p>The created <em>TF-IDF</em> model is an algorithm that detects which <em>genres</em> and <em>keywords</em> in the dataset are the most important while at the same time, reducing the relevance of <em>genres</em> and <em>keywords</em> that constantly repeat among movies. By using the <em>Term-Frequency Matrix</em> built, we can calculate the number of times that a <em>genre</em> or <em>keyword</em> appears on a movie.</p>
+<p>On the other hand, the <em>Inverse Document Frequency</em> is the number of movies in which a given <em>genre</em> or <em>keyword</em> appears and can be calculated in the following way:</p>
 <figure>
-    <img src="https://princekike27.github.io/Enrique_Portfolio/images/Project10_Target.png"/> <figcaption>
-            <h4>Table 1: Target Variable</h4>
+    <img src="https://princekike27.github.io/Enrique_Portfolio/images/Project11_IDF.png"/> <figcaption>
+            <h4>Equation 1: Inverse Document Frequency</h4>
         </figcaption>
 </figure>
 
-<p>As it can be seen, the countries analyzed are classified in 4 religions. 60 countries (30.92%) have as religion <em>Other Cristian</em> (Orthodox, Anglican, Evangelic) while 58 countries (29.89%) are classified on the <em>Other</em> religion category. On the other hand, 40 countries (20.61%) have <em>Catholic</em> as their primary religion while the remaining 36 countries (18.55%) are <em>Muslim</em>.</p>
-<h2 id="x--predictors">X ⟶ Predictors</h2>
-<p>The numeric predictors are in different scales hence, a <em>MinMaxScaler</em> was applied to all numeric features to transform them to a range of values of [0, 1]. On top of that, there are a lot outliers on the <em>sunstars, population and area</em> predictors which can affect the performance of the model. A <em>Winsorizer</em> transformer was used with <em>quantiles</em> and a <em>fold=0.5</em> to limit their values to the 5th and 95th percentile. The figure shown below shows the numerical variables after the <em>Winsorizer</em> transformation.</p>
-<figure>
-    <img src="https://princekike27.github.io/Enrique_Portfolio/images/Project10_Winso.png"/> <figcaption>
-            <h4>Figure 1: Winsorizer Transformation fold = 0.05</h4>
-        </figcaption>
-</figure>
-
-<p>Moving forward to the categorical variables (<em>mainhue, topleft and botright</em>), a <em>One Hot Encoder</em> transformer was used to map the categories into numbers. Figure 2 shows the pipeline created to transform and standardize the predictors and to train a <em>Decision Tree Classifier</em>.</p>
-<figure>
-    <img src="https://princekike27.github.io/Enrique_Portfolio/images/Project10_Pipe1.png"/> <figcaption>
-            <h4>Figure 2: Transformation Pipeline</h4>
-        </figcaption>
-</figure>
-
-<p>After running the Pipeline, the most influential predictors for correctly classifying a country&rsquo;s religion can be seen below.</p>
-<figure>
-    <img src="https://princekike27.github.io/Enrique_Portfolio/images/Project10_Impo.png"/> <figcaption>
-            <h4>Figure 3: Predictor&#39;s Importance - Decision Tree Classifier</h4>
-        </figcaption>
-</figure>
-
-<h2 id="model-selection">Model Selection</h2>
-<p>A pipeline was created to test 3 different types of classifiers (<em>Decision Tree, Random Forest and XGBoost</em>) in order to determine the model that has the best performance on classifying the religion of new countries. All 3 models were tested with different <em>hyperparameter</em> values and with <em>5-fold</em> cross validation to reduce the risk of overfitting. Below we can see the <em>hyperparameter</em> grid that was used during this step.</p>
-<figure>
-    <img src="https://princekike27.github.io/Enrique_Portfolio/images/Project10_Params.png"/> <figcaption>
-            <h4>Figure 4: Hyperparameter Grid</h4>
-        </figcaption>
-</figure>
-
-<p>After performing the training and testing of each model combination, the best model was the <strong>Random Forest Classifier</strong> with the following <em>hyperparameters</em>:</p>
+<p>Where:</p>
 <ul>
-<li>criterion: <em>entropy</em></li>
-<li>n_estimators: <em>100</em></li>
+<li><em>N:</em> Number of movies in the dataset.</li>
+<li><em>Document Frequency</em>: Vector that has the size of the vocabulary and shows in how many movies a given <em>genre</em> or <em>keyword</em> appears.</li>
+<li><em>Log:</em> The logarithm allows us to diminish the effect that unusual <em>genres</em> or <em>keywords</em> have.</li>
 </ul>
-<h2 id="best-model-performance">Best Model Performance</h2>
-<p>As it has been stated above, the model that has the best performance of classifying the religion of new countries is the <em>Random Forest Classifier</em> with obtained the following metrics:</p>
-<ul>
-<li>Accuracy: 0.82</li>
-<li><em>F1-Score</em> weighted average: 0.82</li>
-<li><em>Precision</em> weighted average: 0.84</li>
-<li><em>Recall</em> weighted average: 0.82</li>
-</ul>
-<p>As a side note, the lowest value of <em>Recall</em> was 0.67 on the <em>Other</em> religion category. This means that the classifier has a tendency of not classifying countries in the <em>Other</em> religion category when they are. On the other hand, the lowest value for <em>Precision</em> was 0.70 on the <em>Muslim</em> religion. This shows that the model has a tendency of classifying countries as <em>Muslim</em> when they aren&rsquo;t. Below we can see the <em>Confusion Matrix</em> of the best model.</p>
+<h2 id="cosine-similarity">Cosine Similarity</h2>
+<p>Cosine Similarity is a measure of similarity between two non-zero vectors. When two vectors are similar, they are close to each other and have a value closer to 1. In that sense, the higher the cosine similarity between two movies the more similar they will be because they share <em>genres</em> and themes and hence, they can be recommended to the user. Below we can see the cosine similarity graph for the <em>Mortal Kombat</em> movie.</p>
 <figure>
-    <img src="https://princekike27.github.io/Enrique_Portfolio/images/Project10_Confu.png"/> <figcaption>
-            <h4>Figure 5: Confusion Matrix of Best Classifier</h4>
+    <img src="https://princekike27.github.io/Enrique_Portfolio/images/Project11_cosi.png"/> <figcaption>
+            <h4>Figure 1: Cosine Similarity for Mortal Kombat</h4>
+        </figcaption>
+</figure>
+
+<p>As it can be seen above, there are approximately 150 movies with a cosine similarity greater than 0.1 for this motion picture.</p>
+<h2 id="web-application">Web Application</h2>
+<p>The Web App that was created takes as input a movie the user likes and will recommend him 5 movies, with the highest cosine similarity scores, to watch, based on the premise that they share <em>genres</em> and themes that the user enjoys.</p>
+<ul>
+<li><strong>Backend:</strong> <em>Flask</em></li>
+<li><strong>Frontend:</strong> <em>HTML and CSS</em></li>
+<li><strong>Hosting and Deployment:</strong> <em>pythonanywhere.com</em></li>
+<li><strong>Web App URL:</strong> <em><a href="http://princekike27.pythonanywhere.com/">http://princekike27.pythonanywhere.com/</a></em></li>
+</ul>
+<figure>
+    <img src="https://princekike27.github.io/Enrique_Portfolio/images/Project11_pelis_rec.png"/> <figcaption>
+            <h4>Figure 2: Web App TF-IDF Movie Recommender</h4>
         </figcaption>
 </figure>
 
 <hr>
 <h4 id="to-see-the-project-code-click-on-the-following-link">To see the project code click on the following link:</h4>
-<p><a href="https://github.com/princeKike27/Country-Religion-Classifier">Link to GitHub Repository</a></p>
+<p><a href="https://github.com/princeKike27/TF-IDF-Movie-Recommender">Link to GitHub Repository</a></p>
 <ul class="pa0">
   
 </ul>

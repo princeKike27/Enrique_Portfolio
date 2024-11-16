@@ -8,36 +8,27 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Dec 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://princekike27.github.io/Enrique_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Neural Network: Digit Recognizer</title>
+      <title>NLP: TF-IDF Movie Recommender</title>
+      <link>https://princekike27.github.io/Enrique_Portfolio/post/project-11/</link>
+      <pubDate>Mon, 27 Nov 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://princekike27.github.io/Enrique_Portfolio/post/project-11/</guid>
+      <description>For this project I created a python Web App that uses a TF-IDF model of the genres and keywords of movies and cosine similarity, that measures the similarity between two non-zero vectors, to recommend five movies to the user, given a movie the user likes. For this task, I used a dataset from TMDB (The Movie Database) that contains 5000 movies, with their respective genres and keywords, between the year 1916 to 2017.</description>
+    </item>
+    
+    <item>
+      <title>ML: Country Religion Classifier</title>
       <link>https://princekike27.github.io/Enrique_Portfolio/post/project-10/</link>
-      <pubDate>Fri, 03 Mar 2023 10:58:08 -0400</pubDate>
+      <pubDate>Mon, 17 Jul 2023 10:58:08 -0400</pubDate>
       
       <guid>https://princekike27.github.io/Enrique_Portfolio/post/project-10/</guid>
-      <description>For this project I&amp;rsquo;m going to build a Neural Network that classifies Hand Written Digits from the MNIST dataset. The MNIST dataset consists of thousands of handwritten digits and is used for training image processing systems. I will create the Neural Network Architecture, perform Forward Propagation, find the Gradients of the Parameters using Backward Propagation, find the best parameters using Gradient Descent and get the Predictions and Accuracy of the Neural Network.</description>
-    </item>
-    
-    <item>
-      <title>ML: Poland House Price Calculator</title>
-      <link>https://princekike27.github.io/Enrique_Portfolio/post/project-9/</link>
-      <pubDate>Fri, 17 Jun 2022 10:58:08 -0400</pubDate>
-      
-      <guid>https://princekike27.github.io/Enrique_Portfolio/post/project-9/</guid>
-      <description>For this project I analyzed data from the housing market in 3 cities in Poland: Krakow, Warsaw and Poznán. Using a dataset from Kaggle I created a Multiple Linear Regression Model that predicts a houses&#39; price based on features like its city, the number of rooms, number of floors, its area and the year it was built. By using Gradient Descent I will find the best parameters that minimize cost and optimize the model performance.</description>
-    </item>
-    
-    <item>
-      <title>ML: K Nearest Neighbors Book Recommendation Classifier</title>
-      <link>https://princekike27.github.io/Enrique_Portfolio/post/project-8/</link>
-      <pubDate>Sun, 06 Feb 2022 10:58:08 -0400</pubDate>
-      
-      <guid>https://princekike27.github.io/Enrique_Portfolio/post/project-8/</guid>
-      <description>For this project I analyzed data from the Book-Crossings dataset which contains 1.1 million ratings, on a scale from 1-10, of 270,000 books by 90,000 users. In that sense, using the K-Nearest Neighbors algorithm I created a book classifier that based on features like the book´s year of publication and its author will predict if I will like a book, and it will recommend me other similar books to read.</description>
+      <description>For this project I created a classifier to correctly identify the religion of a country given its geographical location, its area in square kilometers, its population in millions of people, its language and the characteristics of its flag such as its color and the shapes that appear on it, like: circles, crosses, sunstars, crescents, saltires, triangles, etc&amp;hellip; For this task, I used the flags dataset from the repository of Machine Learning of the University of California Irvine which contains information of 194 countries.</description>
     </item>
     
     <item>
       <title>Analytics: Endangered Species in United States National Parks</title>
       <link>https://princekike27.github.io/Enrique_Portfolio/post/project-6/</link>
-      <pubDate>Thu, 02 Sep 2021 10:58:08 -0400</pubDate>
+      <pubDate>Fri, 02 Dec 2022 10:58:08 -0400</pubDate>
       
       <guid>https://princekike27.github.io/Enrique_Portfolio/post/project-6/</guid>
       <description>For this project I analyzed data from the US National Parks Service about endangered species in different parks. Taking the role of a biodiversity analyst, the goal is to ensure the survival of at-risk species to maintain the level of biodiversity within the parks. In that sense, I will identify if there are any patterns in the types of species that become endangered and their relationship to the National Parks.</description>
@@ -46,7 +37,7 @@
     <item>
       <title>Analytics: Life Expectancy and GDP</title>
       <link>https://princekike27.github.io/Enrique_Portfolio/post/project-5/</link>
-      <pubDate>Wed, 07 Apr 2021 10:58:08 -0400</pubDate>
+      <pubDate>Thu, 07 Apr 2022 10:58:08 -0400</pubDate>
       
       <guid>https://princekike27.github.io/Enrique_Portfolio/post/project-5/</guid>
       <description>For this project I analyzed data on the Growth Domestic Product (GDP) and Life Expectancy from the World Health Organization and the World Bank, to try and identify the relationship between the GDP and the life expectancy of six countries. GDP is the total monetary or market value of all the finished goods and services produced within a country&amp;rsquo;s borders in a specific time period. In that sense, being a broad measure of overall domestic production, it functions as a comprehensive scorecard of a given country&amp;rsquo;s economic health.</description>
@@ -55,7 +46,7 @@
     <item>
       <title>Analytics: FIFA World Cup Data</title>
       <link>https://princekike27.github.io/Enrique_Portfolio/post/project-1/</link>
-      <pubDate>Sat, 23 Jan 2021 10:58:08 -0400</pubDate>
+      <pubDate>Wed, 23 Mar 2022 10:58:08 -0400</pubDate>
       
       <guid>https://princekike27.github.io/Enrique_Portfolio/post/project-1/</guid>
       <description>For this project I analyzed data from the FIFA World Cups between 1930 and 2014. This tournament is an international football competition where countries qualify to send teams made up of the best players from each nation to obtain the World Cup Championship. It has been awarded every four years since the inaugural tournament in 1930, except in 1942 and 1946 when it wasn&amp;rsquo;t held due to the Second World War.</description>
